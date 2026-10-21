@@ -58,7 +58,7 @@ The system can be extended with real-time sensor data, PLC integration, an IoT-b
 GitHub: https://github.com/Jyotiransh07/OEE
 
 ## Author
-Jyotiransh Rai
-Madhav Pareek 
-Debarghya Maity
+Jyotiransh Rai   
+Madhav Pareek    
+Debarghya Maity   
 Vrunda Vekhande
