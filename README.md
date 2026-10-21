@@ -59,3 +59,6 @@ GitHub: https://github.com/Jyotiransh07/OEE
 
 ## Author
 Jyotiransh Rai
+Madhav Pareek 
+Debarghya Maity
+Vrunda Vekhande
